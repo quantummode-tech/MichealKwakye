@@ -1,2 +1,2 @@
 # MichealKwakye
-My portfolio showing some of my skills ans projects.
+My portfolio showing some of my skills and projects.
